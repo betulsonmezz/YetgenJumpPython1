@@ -1,0 +1,2 @@
+{'isim': 'betül', 'yas': 20, 'uzunluk': 156.0, 'aðýrlýk': 46.0, 'vki': 18.902038132807363, 'vki_kategori': 'Normal kilolu'}
+{'isim': 'betül', 'yas': 20, 'uzunluk': 156.0, 'aðýrlýk': 46.0, 'vki': 18.902038132807363, 'vki_kategori': 'Normal kilolu'}
